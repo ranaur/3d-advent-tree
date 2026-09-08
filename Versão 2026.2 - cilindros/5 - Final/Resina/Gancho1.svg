@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="-96.000183 -687.04346 209.99979 296.9997"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="Gancho1.svg"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.80759552"
+     inkscape:cx="-112.06105"
+     inkscape:cy="268.07974"
+     inkscape:window-width="2560"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <path
+     style="fill:none;stroke:#0000ff;stroke-width:0.05mm"
+     d="m -90.56904,-685.733 c -0.82843,1.8e-4 -1.499817,0.6261 -1.499695,1.39838 v 0.0233 18.62265 c 1.22e-4,1.54462 1.343384,2.79639 3.000305,2.79621 h 3 l -4.88e-4,21.36062 c 0,1.0719 0.571899,2.06238 1.500183,2.5983 0.928223,0.53583 2.071716,0.53583 2.999817,0 0.928284,-0.53589 1.500183,-1.52637 1.500183,-2.5983 h -2.999817 -6.1e-4 l 6.1e-4,-21.15688 v -1.00082 c -6.1e-4,-1.29355 -1.027527,-2.72724 -2.972473,-2.797 -0.01001,-3e-5 -3.026978,0.009 -3.026978,0 l -4.88e-4,-4.99902 -1.22e-4,-7.2815 h 3.027771 v -1.67843 l -3.027893,-1.32553 1.83e-4,-2.56058 v -0.002 c 0,-0.77246 -0.67157,-1.39899 -1.500122,-1.3989 z"
+     id="path1" />
+</svg>
