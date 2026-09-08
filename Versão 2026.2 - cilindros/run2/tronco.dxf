@@ -1,0 +1,3874 @@
+999
+"DXF R12 Output" (www.mydxf.blogspot.com)
+ 0 
+SECTION
+ 2 
+HEADER
+ 9 
+$ACADVER
+ 1 
+AC1009
+ 9 
+$EXTMIN
+ 10 
+ 0 
+ 20 
+ 0 
+ 9 
+$EXTMAX
+ 10 
+ 8.5 
+ 20 
+ 11 
+ 0 
+ENDSEC
+ 0 
+SECTION
+ 2 
+ENTITIES
+0
+POLYLINE
+8
+Tronco para frentes pequenas (A4)
+62
+7
+70
+1
+10
+0.000000
+20
+0.000000
+66
+1
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+-0.000500
+20
+296.997820
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+-0.000500
+20
+-0.002100
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+209.999640
+20
+-0.002100
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+209.999640
+20
+296.997820
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+-0.000500
+20
+296.997820
+70
+0
+0
+SEQEND
+8
+Tronco para frentes pequenas (A4)
+0
+POLYLINE
+8
+Tronco para frentes pequenas (A4)
+62
+7
+70
+0
+10
+0.000000
+20
+0.000000
+66
+1
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+154.677430
+20
+89.198100
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+158.358204
+20
+89.012224
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+161.932652
+20
+88.466688
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+165.382679
+20
+87.579586
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+168.690189
+20
+86.369014
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+171.837087
+20
+84.853068
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+174.805277
+20
+83.049842
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+177.576665
+20
+80.977432
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+180.133155
+20
+78.653934
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+182.456651
+20
+76.097442
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+184.529059
+20
+73.326052
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+186.332282
+20
+70.357860
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+187.848226
+20
+67.210961
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+189.058795
+20
+63.903450
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+189.945894
+20
+60.453423
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+190.491427
+20
+56.878974
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+190.677300
+20
+53.198200
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+190.501178
+20
+49.640023
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+189.979250
+20
+46.142111
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+189.121295
+20
+42.728069
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+187.937090
+20
+39.421504
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+186.436414
+20
+36.246022
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+184.629043
+20
+33.225231
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+182.524757
+20
+30.382736
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+180.133332
+20
+27.742143
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+177.492774
+20
+25.350679
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+174.650310
+20
+23.246351
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+171.629545
+20
+21.438936
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+168.454086
+20
+19.938212
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+165.147539
+20
+18.753959
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+161.733509
+20
+17.895954
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+158.235604
+20
+17.373975
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+154.677430
+20
+17.197800
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+151.119256
+20
+17.373975
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+147.621351
+20
+17.895954
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+144.207321
+20
+18.753959
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+140.900774
+20
+19.938212
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+137.725315
+20
+21.438936
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+134.704550
+20
+23.246351
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+131.862086
+20
+25.350679
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+129.221528
+20
+27.742143
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+126.830103
+20
+30.382736
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+124.725817
+20
+33.225231
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+122.918446
+20
+36.246022
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+121.417770
+20
+39.421504
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+120.233565
+20
+42.728069
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+119.375610
+20
+46.142111
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+118.853682
+20
+49.640023
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+118.677560
+20
+53.198200
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+118.863433
+20
+56.878974
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+119.408966
+20
+60.453423
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+120.296065
+20
+63.903450
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+121.506634
+20
+67.210961
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+123.022578
+20
+70.357860
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+124.825801
+20
+73.326052
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+126.898209
+20
+76.097442
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+129.221705
+20
+78.653934
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+131.778195
+20
+80.977432
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+134.549583
+20
+83.049842
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+137.517773
+20
+84.853068
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+140.664671
+20
+86.369014
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+143.972181
+20
+87.579586
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+147.422208
+20
+88.466688
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+150.996656
+20
+89.012224
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+154.677430
+20
+89.198100
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+154.677430
+20
+89.198100
+70
+0
+0
+SEQEND
+8
+Tronco para frentes pequenas (A4)
+0
+POLYLINE
+8
+Tronco para frentes pequenas (A4)
+62
+7
+70
+0
+10
+0.000000
+20
+0.000000
+66
+1
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+54.677330
+20
+89.198100
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+58.358104
+20
+89.012224
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+61.932552
+20
+88.466688
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+65.382579
+20
+87.579586
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+68.690089
+20
+86.369014
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+71.836987
+20
+84.853068
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+74.805177
+20
+83.049842
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+77.576565
+20
+80.977432
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+80.133055
+20
+78.653934
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+82.456551
+20
+76.097442
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+84.528959
+20
+73.326052
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+86.332182
+20
+70.357860
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+87.848126
+20
+67.210961
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+89.058695
+20
+63.903450
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+89.945794
+20
+60.453423
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+90.491327
+20
+56.878974
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+90.677200
+20
+53.198200
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+90.501078
+20
+49.640023
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+89.979150
+20
+46.142111
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+89.121195
+20
+42.728069
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+87.936990
+20
+39.421504
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+86.436314
+20
+36.246022
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+84.628943
+20
+33.225231
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+82.524657
+20
+30.382736
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+80.133232
+20
+27.742143
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+77.492674
+20
+25.350679
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+74.650210
+20
+23.246351
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+71.629445
+20
+21.438936
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+68.453986
+20
+19.938212
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+65.147439
+20
+18.753959
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+61.733409
+20
+17.895954
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+58.235504
+20
+17.373975
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+54.677330
+20
+17.197800
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+51.119156
+20
+17.373975
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+47.621251
+20
+17.895954
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+44.207221
+20
+18.753959
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+40.900674
+20
+19.938212
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+37.725215
+20
+21.438936
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+34.704450
+20
+23.246351
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+31.861986
+20
+25.350679
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+29.221428
+20
+27.742143
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+26.830003
+20
+30.382736
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+24.725717
+20
+33.225231
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+22.918346
+20
+36.246022
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+21.417670
+20
+39.421504
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+20.233465
+20
+42.728069
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+19.375510
+20
+46.142111
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+18.853582
+20
+49.640023
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+18.677460
+20
+53.198200
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+18.863333
+20
+56.878974
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+19.408866
+20
+60.453423
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+20.295965
+20
+63.903450
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+21.506534
+20
+67.210961
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+23.022478
+20
+70.357860
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+24.825701
+20
+73.326052
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+26.898109
+20
+76.097442
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+29.221605
+20
+78.653934
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+31.778095
+20
+80.977432
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+34.549483
+20
+83.049842
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+37.517673
+20
+84.853068
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+40.664571
+20
+86.369014
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+43.972081
+20
+87.579586
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+47.422108
+20
+88.466688
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+50.996556
+20
+89.012224
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+54.677330
+20
+89.198100
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+54.677330
+20
+89.198100
+70
+0
+0
+SEQEND
+8
+Tronco para frentes pequenas (A4)
+0
+POLYLINE
+8
+Tronco para frentes pequenas (A4)
+62
+7
+70
+0
+10
+0.000000
+20
+0.000000
+66
+1
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+154.677430
+20
+223.497900
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+158.358204
+20
+223.312024
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+161.932652
+20
+222.766488
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+165.382679
+20
+221.879386
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+168.690189
+20
+220.668814
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+171.837087
+20
+219.152868
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+174.805277
+20
+217.349642
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+177.576665
+20
+215.277232
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+180.133155
+20
+212.953734
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+182.456651
+20
+210.397242
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+184.529059
+20
+207.625852
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+186.332282
+20
+204.657660
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+187.848226
+20
+201.510761
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+189.058795
+20
+198.203250
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+189.945894
+20
+194.753223
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+190.491427
+20
+191.178774
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+190.677300
+20
+187.498000
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+190.501169
+20
+183.939830
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+189.979233
+20
+180.441925
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+189.121272
+20
+177.027891
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+187.937062
+20
+173.721334
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+186.436381
+20
+170.545861
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+184.629008
+20
+167.525079
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+182.524721
+20
+164.682592
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+180.133296
+20
+162.042008
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+177.492741
+20
+159.650552
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+174.650279
+20
+157.546230
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+171.629518
+20
+155.738821
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+168.454063
+20
+154.238103
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+165.147521
+20
+153.053853
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+161.733497
+20
+152.195851
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+158.235598
+20
+151.673874
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+154.677430
+20
+151.497700
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+151.119262
+20
+151.673874
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+147.621363
+20
+152.195851
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+144.207339
+20
+153.053853
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+140.900797
+20
+154.238103
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+137.725342
+20
+155.738821
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+134.704581
+20
+157.546230
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+131.862119
+20
+159.650552
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+129.221564
+20
+162.042008
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+126.830139
+20
+164.682592
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+124.725852
+20
+167.525079
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+122.918479
+20
+170.545861
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+121.417798
+20
+173.721334
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+120.233588
+20
+177.027891
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+119.375627
+20
+180.441925
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+118.853691
+20
+183.939830
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+118.677560
+20
+187.498000
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+118.863433
+20
+191.178774
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+119.408966
+20
+194.753223
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+120.296065
+20
+198.203250
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+121.506634
+20
+201.510761
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+123.022578
+20
+204.657660
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+124.825801
+20
+207.625852
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+126.898209
+20
+210.397242
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+129.221705
+20
+212.953734
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+131.778195
+20
+215.277232
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+134.549583
+20
+217.349642
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+137.517773
+20
+219.152868
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+140.664671
+20
+220.668814
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+143.972181
+20
+221.879386
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+147.422208
+20
+222.766488
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+150.996656
+20
+223.312024
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+154.677430
+20
+223.497900
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+154.677430
+20
+223.497900
+70
+0
+0
+SEQEND
+8
+Tronco para frentes pequenas (A4)
+0
+POLYLINE
+8
+Tronco para frentes pequenas (A4)
+62
+7
+70
+0
+10
+0.000000
+20
+0.000000
+66
+1
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+54.677330
+20
+223.497900
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+58.358104
+20
+223.312024
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+61.932552
+20
+222.766488
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+65.382579
+20
+221.879386
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+68.690089
+20
+220.668814
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+71.836987
+20
+219.152868
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+74.805177
+20
+217.349642
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+77.576565
+20
+215.277232
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+80.133055
+20
+212.953734
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+82.456551
+20
+210.397242
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+84.528959
+20
+207.625852
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+86.332182
+20
+204.657660
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+87.848126
+20
+201.510761
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+89.058695
+20
+198.203250
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+89.945794
+20
+194.753223
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+90.491327
+20
+191.178774
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+90.677200
+20
+187.498000
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+90.501069
+20
+183.939830
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+89.979133
+20
+180.441925
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+89.121172
+20
+177.027891
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+87.936962
+20
+173.721334
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+86.436281
+20
+170.545861
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+84.628908
+20
+167.525079
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+82.524621
+20
+164.682592
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+80.133196
+20
+162.042008
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+77.492641
+20
+159.650552
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+74.650179
+20
+157.546230
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+71.629418
+20
+155.738821
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+68.453963
+20
+154.238103
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+65.147421
+20
+153.053853
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+61.733397
+20
+152.195851
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+58.235498
+20
+151.673874
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+54.677330
+20
+151.497700
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+51.119162
+20
+151.673874
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+47.621263
+20
+152.195851
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+44.207239
+20
+153.053853
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+40.900697
+20
+154.238103
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+37.725242
+20
+155.738821
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+34.704481
+20
+157.546230
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+31.862019
+20
+159.650552
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+29.221464
+20
+162.042008
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+26.830039
+20
+164.682592
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+24.725752
+20
+167.525079
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+22.918379
+20
+170.545861
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+21.417698
+20
+173.721334
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+20.233488
+20
+177.027891
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+19.375527
+20
+180.441925
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+18.853591
+20
+183.939830
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+18.677460
+20
+187.498000
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+18.863333
+20
+191.178774
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+19.408866
+20
+194.753223
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+20.295965
+20
+198.203250
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+21.506534
+20
+201.510761
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+23.022478
+20
+204.657660
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+24.825701
+20
+207.625852
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+26.898109
+20
+210.397242
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+29.221605
+20
+212.953734
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+31.778095
+20
+215.277232
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+34.549483
+20
+217.349642
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+37.517673
+20
+219.152868
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+40.664571
+20
+220.668814
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+43.972081
+20
+221.879386
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+47.422108
+20
+222.766488
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+50.996556
+20
+223.312024
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+54.677330
+20
+223.497900
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+54.677330
+20
+223.497900
+70
+0
+0
+SEQEND
+8
+Tronco para frentes pequenas (A4)
+0
+POLYLINE
+8
+Tronco para frentes pequenas (A4)
+62
+7
+70
+0
+10
+0.000000
+20
+0.000000
+66
+1
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+170.999950
+20
+291.398160
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+171.587961
+20
+291.307929
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+172.148005
+20
+291.044084
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+172.664346
+20
+290.616732
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+173.121246
+20
+290.035978
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+173.771501
+20
+288.527321
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+173.999770
+20
+286.747800
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+173.764014
+20
+284.937929
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+173.121130
+20
+283.459952
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+172.167611
+20
+282.463436
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+171.604517
+20
+282.192466
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+170.999950
+20
+282.097950
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+170.395383
+20
+282.192466
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+169.832289
+20
+282.463436
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+168.878770
+20
+283.459952
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+168.235886
+20
+284.937929
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+168.000130
+20
+286.747800
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+168.228399
+20
+288.527321
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+168.878654
+20
+290.035978
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+169.335554
+20
+290.616732
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+169.851895
+20
+291.044084
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+170.411939
+20
+291.307929
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+170.999950
+20
+291.398160
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+170.999950
+20
+291.398160
+70
+0
+0
+SEQEND
+8
+Tronco para frentes pequenas (A4)
+0
+POLYLINE
+8
+Tronco para frentes pequenas (A4)
+62
+7
+70
+0
+10
+0.000000
+20
+0.000000
+66
+1
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+126.000110
+20
+291.398160
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+126.588121
+20
+291.307929
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+127.148165
+20
+291.044084
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+127.664506
+20
+290.616732
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+128.121406
+20
+290.035978
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+128.771661
+20
+288.527321
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+128.999930
+20
+286.747800
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+128.764174
+20
+284.937929
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+128.121290
+20
+283.459952
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+127.167771
+20
+282.463436
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+126.604677
+20
+282.192466
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+126.000110
+20
+282.097950
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+125.412067
+20
+282.188033
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+124.851974
+20
+282.451750
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+124.335572
+20
+282.878997
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+123.878601
+20
+283.459672
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+123.228193
+20
+284.968253
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+122.999780
+20
+286.747800
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+123.228098
+20
+288.527503
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+123.878484
+20
+290.036257
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+124.335470
+20
+290.617007
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+124.851898
+20
+291.044311
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+125.412026
+20
+291.308064
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+126.000110
+20
+291.398160
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+126.000110
+20
+291.398160
+70
+0
+0
+SEQEND
+8
+Tronco para frentes pequenas (A4)
+0
+POLYLINE
+8
+Tronco para frentes pequenas (A4)
+62
+7
+70
+0
+10
+0.000000
+20
+0.000000
+66
+1
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+80.999760
+20
+291.398160
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+81.587844
+20
+291.308064
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+82.147972
+20
+291.044311
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+82.664400
+20
+290.617007
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+83.121386
+20
+290.036257
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+83.771772
+20
+288.527503
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+84.000090
+20
+286.747800
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+83.771677
+20
+284.968253
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+83.121269
+20
+283.459672
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+82.664298
+20
+282.878997
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+82.147896
+20
+282.451750
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+81.587803
+20
+282.188033
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+80.999760
+20
+282.097950
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+80.395193
+20
+282.192466
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+79.832099
+20
+282.463436
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+78.878580
+20
+283.459952
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+78.235696
+20
+284.937929
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+77.999940
+20
+286.747800
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+78.228209
+20
+288.527321
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+78.878464
+20
+290.035978
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+79.335364
+20
+290.616732
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+79.851705
+20
+291.044084
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+80.411749
+20
+291.307929
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+80.999760
+20
+291.398160
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+80.999760
+20
+291.398160
+70
+0
+0
+SEQEND
+8
+Tronco para frentes pequenas (A4)
+0
+POLYLINE
+8
+Tronco para frentes pequenas (A4)
+62
+7
+70
+0
+10
+0.000000
+20
+0.000000
+66
+1
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+35.999920
+20
+291.398160
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+36.588004
+20
+291.308064
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+37.148132
+20
+291.044311
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+37.664560
+20
+290.617007
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+38.121546
+20
+290.036257
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+38.771932
+20
+288.527503
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+39.000250
+20
+286.747800
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+38.771837
+20
+284.968253
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+38.121429
+20
+283.459672
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+37.664458
+20
+282.878997
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+37.148056
+20
+282.451750
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+36.587963
+20
+282.188033
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+35.999920
+20
+282.097950
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+35.395353
+20
+282.192466
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+34.832259
+20
+282.463436
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+33.878740
+20
+283.459952
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+33.235856
+20
+284.937929
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+33.000100
+20
+286.747800
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+33.228369
+20
+288.527321
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+33.878624
+20
+290.035978
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+34.335524
+20
+290.616732
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+34.851865
+20
+291.044084
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+35.411909
+20
+291.307929
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+35.999920
+20
+291.398160
+70
+0
+0
+VERTEX
+8
+Tronco para frentes pequenas (A4)
+10
+35.999920
+20
+291.398160
+70
+0
+0
+SEQEND
+8
+Tronco para frentes pequenas (A4)
+ 0 
+ENDSEC
+ 0 
+EOF
